@@ -1,0 +1,3 @@
+# Excel comparator using python by mert karademir
+# 29 October 2023
+# This script takes 3 excel files and compare every cells with eachother, the different cell will be displayed 
